@@ -123,7 +123,8 @@
 ###
 
 <h5 align="left">
-  ## Transformar conhecimento em impacto real: esse é meu foco 🚀
+
+Transformar conhecimento em impacto real: esse é meu foco 🚀
 
 Sou **Engenheiro de Software**, **Instrutor de Formação Profissional no SENAI** e **Product Owner**. 👨‍💻📚  
 Ensino, desenvolvo e lidero projetos que conectam tecnologia à solução de problemas reais — seja formando novos talentos, seja entregando produtos digitais completos como **Desenvolvedor Full Stack**. 🌐✨
