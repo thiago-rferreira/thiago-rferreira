@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="154" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN2bWQwOHluNG4weng0anl6Y283amF3eDc4bTg0MnVlc2dwaGZxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="37" alt="javascript logo"  />
   <img width="8" />
@@ -87,6 +83,10 @@
 
 ###
 
+<img align="right" height="154" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN2bWQwOHluNG4weng0anl6Y283amF3eDc4bTg0MnVlc2dwaGZxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
+
+###
+
 <br clear="both">
 
 <div align="center">
@@ -103,6 +103,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/thiago-rferreira/thiago-rferreira/output/snake.svg" alt="Snake animation" />
 
 ###
 
