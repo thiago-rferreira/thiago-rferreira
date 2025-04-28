@@ -122,7 +122,12 @@
 
 ###
 
-<h5 align="left">Sou **Desenvolvedor de Software** e entusiasta da **Educação Tecnológica**.  <br>Crio sistemas inteligentes e eficientes para resolver problemas reais, conectando inovação, performance e experiência do usuário.<br><br>Trabalho com tecnologias modernas no desenvolvimento **web**, **mobile** e **sistemas educacionais personalizados**.</h5>
+<h5 align="left">
+  Sou <strong>Desenvolvedor de Software</strong> e apaixonado por <strong>Educação Tecnológica</strong>.<br>
+  Crio soluções inteligentes e eficientes que conectam inovação, desempenho e uma experiência de usuário excepcional.<br><br>
+  Atuo com tecnologias modernas no desenvolvimento de <strong>aplicações web</strong>, <strong>mobile</strong> e <strong>sistemas educacionais personalizados</strong>.
+</h5>
+
 
 ###
 
