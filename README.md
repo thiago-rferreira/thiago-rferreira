@@ -2,6 +2,10 @@
 
 ---
 
+<table>
+  <tr>
+    <td valign="top" width="70%">
+
 ### 💡 Sobre mim
 
 Transformar conhecimento em impacto real: esse é meu foco 🚀
@@ -12,14 +16,21 @@ Atuo formando novos talentos e desenvolvendo soluções digitais completas como 
 Tenho formação em **Engenharia de Software**, especialização em **Indústria 4.0** e fluência em inglês.  
 Acredito que inovação real acontece quando teoria e prática caminham juntas.
 
+</td>
+    <td align="center" width="30%">
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN2bWQwOHluNG4weng0anl6Y283amF3eDc4bTg0MnVlc2dwaGZxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" height="160" />
+    </td>
+  </tr>
+</table>
+
 ---
 
 ### 📊 Minhas estatísticas no GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiago-rferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=thiago-rferreira&theme=dark&hide_border=false) </br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiago-rferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=thiago-rferreira&theme=dark&hide_border=false)&nbsp;&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-rferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
