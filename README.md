@@ -18,8 +18,8 @@ Acredito que inovação real acontece quando teoria e prática caminham juntas.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiago-rferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=thiago-rferreira&theme=dark&hide_border=false)&nbsp;&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiago-rferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=thiago-rferreira&theme=dark&hide_border=false) </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-rferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
