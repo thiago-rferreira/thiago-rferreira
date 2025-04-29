@@ -28,14 +28,14 @@ Acredito que inovação real acontece quando teoria e prática caminham juntas.
 <div align="center">
 
 <a href="https://github.com/thiago-rferreira">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiago-rferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago-rferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="300px" />
 </a>
 <a href="https://github.com/thiago-rferreira">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thiago-rferreira&theme=dark&hide_border=false" width="30%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thiago-rferreira&theme=dark&hide_border=false" width="300px" />
 </a>
 <br />
 <a href="https://github.com/thiago-rferreira">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-rferreira&theme=dark&hide_border=false&layout=compact" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-rferreira&theme=dark&hide_border=false&layout=compact" width="300px" />
 </a>
 
 </div>
