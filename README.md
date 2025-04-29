@@ -2,9 +2,8 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="70%">
+<div align="center" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 280px; padding-right: 10px; text-align: left;">
 
 ### 💡 Sobre mim
 
@@ -16,12 +15,11 @@ Atuo formando novos talentos e desenvolvendo soluções digitais completas como 
 Tenho formação em **Engenharia de Software**, especialização em **Indústria 4.0** e fluência em inglês.  
 Acredito que inovação real acontece quando teoria e prática caminham juntas.
 
-</td>
-    <td align="center" width="30%">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN2bWQwOHluNG4weng0anl6Y283amF3eDc4bTg0MnVlc2dwaGZxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" height="160" />
-    </td>
-  </tr>
-</table>
+  </div>
+  <div style="min-width: 160px;">
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN2bWQwOHluNG4weng0anl6Y283amF3eDc4bTg0MnVlc2dwaGZxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" height="160" />
+  </div>
+</div>
 
 ---
 
@@ -29,9 +27,16 @@ Acredito que inovação real acontece quando teoria e prática caminham juntas.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiago-rferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true)&nbsp;&nbsp;
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=thiago-rferreira&theme=dark&hide_border=false)&nbsp;&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-rferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<a href="https://github.com/thiago-rferreira">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago-rferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+</a>
+<a href="https://github.com/thiago-rferreira">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thiago-rferreira&theme=dark&hide_border=false" width="48%" />
+</a>
+<br />
+<a href="https://github.com/thiago-rferreira">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-rferreira&theme=dark&hide_border=false&layout=compact" width="50%" />
+</a>
 
 </div>
 
