@@ -87,9 +87,12 @@ Acredito que inovação real acontece quando teoria e prática caminham juntas.
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/thiago-rferreira/count.svg?" />
   <br>
   <br>
-  ⭐ Obrigado por visitar meu perfil! Se curtir algum projeto, **dá uma estrela!**  
+  ⭐ Obrigado por visitar meu perfil! Se curtir algum projeto, dá uma estrela!
   Vamos conversar e construir juntos? 🚀
+  <br>
+  <br>
+  <br>
+  <img src="https://profile-counter.glitch.me/thiago-rferreira/count.svg?" />
 </div>
