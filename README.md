@@ -127,11 +127,11 @@
 Transformar conhecimento em impacto real: esse é meu foco 🚀
 
 Sou **Engenheiro de Software**, **Instrutor de Formação Profissional no SENAI** e **Product Owner**. 👨‍💻📚  
-Ensino, desenvolvo e lidero projetos que conectam tecnologia à solução de problemas reais — seja formando novos talentos, seja entregando produtos digitais completos como **Desenvolvedor Full Stack**. 🌐✨
+Ensino, desenvolvo e lidero projetos que conectam tecnologia à solução de problemas reais — seja formando novos talentos, seja entregando produtos digitais completos como **Desenvolvedor Full Stack**.🚀
 
-Com formação sólida em **Engenharia de Software**, especialização em **Indústria e Serviços 4.0** 🏭🔧 e fluência em inglês 🇬🇧, atuo sempre alinhado às necessidades do mercado e às novas tendências tecnológicas. 📈🔍
+Com formação sólida em **Engenharia de Software**, especialização em **Indústria e Serviços 4.0** 🏭🔧 e fluência em inglês, atuo sempre alinhado às necessidades do mercado e às novas tendências tecnológicas. 
 
-Acredito que inovação de verdade nasce quando teoria e prática caminham juntas. 💡🤝
+Acredito que inovação de verdade nasce quando teoria e prática caminham juntas. 💡🚀
 
 </h5>
 
