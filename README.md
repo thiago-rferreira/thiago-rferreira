@@ -7,7 +7,7 @@
 
 ### 💡 Sobre mim
 
-Transformar conhecimento em impacto real: esse é meu foco 🚀
+Transformar conhecimento em impacto real: esse é meu foco 🚀🚀
 
 Sou **Engenheiro de Software**, **Instrutor no SENAI** e **Product Owner**.  
 Atuo formando novos talentos e desenvolvendo soluções digitais completas como **Full Stack Developer**.
