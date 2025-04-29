@@ -24,20 +24,9 @@ Acredito que inovação real acontece quando teoria e prática caminham juntas.
 ---
 
 ### 📊 Minhas estatísticas no GitHub
-
 <div align="center">
-
-<a href="https://github.com/thiago-rferreira">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiago-rferreira&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="300px" />
-</a>
-<a href="https://github.com/thiago-rferreira">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=thiago-rferreira&theme=dark&hide_border=false" width="300px" />
-</a>
-<br />
-<a href="https://github.com/thiago-rferreira">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-rferreira&theme=dark&hide_border=false&layout=compact" width="300px" />
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago-rferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-rferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
