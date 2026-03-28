@@ -1,85 +1,108 @@
-<div align="center">
+# Thiago Ferreira 👨‍💻
 
-<br>
+```typescript
+const thiago = {
+  stack: "Full Stack Developer",
+  roles: ["Software Engineer", "SENAI Instructor", "Product Owner"],
+  paixoes: [
+    "Código que resolve problema de verdade",
+    "Formar novos devs",
+    "Indústria 4.0 🏭",
+    "Tecnologia com propósito 🚀",
+  ],
+  formacao: "Engenharia de Software + Especialização Indústria 4.0",
+  idiomas: ["pt-BR", "en-US"],
+  mindset: "Inovação real acontece quando teoria e prática caminham juntas",
+};
+```
 
-# Thiago Ferreira
+## Oi! 👋
 
-**Software Engineer · Full Stack Developer · SENAI Instructor**
+Sou engenheiro de software full stack, instrutor no SENAI e product owner — atuando nas três frentes ao mesmo tempo e gostando disso.
 
-Engenheiro de Software com especialização em Indústria 4.0.  
-Transformo conhecimento em produtos reais — da arquitetura ao deploy.
+Minha trajetória passa pela construção de soluções digitais completas, da arquitetura ao deploy, e pela formação de novos talentos no mercado de tecnologia. Acredito que **o melhor código é o que gera impacto real** — não o mais sofisticado, o mais útil.
 
-<br>
+### O que me move
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagoferreira1)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/thiago.rferreira)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thiagoferreira435@gmail.com)
-
-<br>
+🎯 **Impacto** — Tecnologia existe para resolver problema, não impressionar  
+🧑‍🏫 **Ensino** — Formar bons devs é tão satisfatório quanto construir bons sistemas  
+🔧 **Full Stack de verdade** — Do banco de dados ao deploy, passando pelo produto  
+🌐 **Indústria 4.0** — Onde tecnologia e mundo físico se encontram  
+📐 **Arquitetura** — Decisões que importam antes de escrever a primeira linha
 
 ---
 
+## 🛠️ Arsenal Tecnológico
+
+### **Frontend & UI**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind&theme=dark" />
 </div>
 
-<br>
+### **Backend & APIs**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,cs,java&theme=dark" />
+</div>
 
-## About
+### **Banco de Dados**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb,firebase&theme=dark" />
+</div>
 
-Atuo como **Engenheiro de Software**, **Product Owner** e **Instrutor no SENAI** — formando novos devs e construindo soluções digitais de ponta a ponta.
+### **DevOps & Cloud**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,nginx,linux&theme=dark" />
+</div>
 
-Tenho fluência em inglês e acredito que inovação real acontece onde teoria e prática se encontram.
+### **Ferramentas & Produtividade**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&theme=dark" />
+</div>
 
-<br>
+---
 
-## Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Frameworks & Runtime**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-**Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
-
-<br>
-
-## Stats
+## 📊 GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thiago-rferreira&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&title_color=0f172a&text_color=374151&icon_color=6366f1" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-rferreira&layout=compact&langs_count=5&theme=default&hide_border=true&title_color=0f172a&text_color=374151" height="150" />
-
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=thiago-rferreira&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-rferreira&layout=compact&langs_count=8&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff"/>
 </div>
 
-<br>
+---
 
-## Contributions
+## 💡 Filosofia
+
+```python
+def engenharia_de_software():
+    entender_o_problema()    # O real, não o sintoma
+    desenhar_a_solucao()     # Antes de abrir o editor
+    escrever_codigo_limpo()  # Futuros devs vão agradecer
+    testar_com_criterio()    # Confiança não é feeling
+    ensinar_o_que_aprendeu() # O conhecimento se multiplica
+    repetir()                # Sempre
+```
+
+---
+
+## 💬 Bora conversar?
+
+Interesse em trocar ideia sobre arquitetura, full stack, DevOps, educação em tech ou projetos? 👇
+
+<div align="center">
+  <a href="https://linkedin.com/in/thiagoferreira1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/thiago.rferreira">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:thiagoferreira435@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🕹️ Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiago-rferreira/thiago-rferreira/output/pacman-contribution-graph-dark.svg">
@@ -87,18 +110,10 @@ Tenho fluência em inglês e acredito que inovação real acontece onde teoria e
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thiago-rferreira/thiago-rferreira/output/pacman-contribution-graph.svg">
 </picture>
 
-<br>
-
 ---
 
 <div align="center">
-
-<br>
-
-Se curtir algum projeto, deixa uma ⭐ — significa muito.
-
-![Visitor Counter](https://profile-counter.glitch.me/thiago-rferreira/count.svg?)
-
-<br>
-
+  <sub>💻 Feito com café, código e vontade de impactar ☕🚀</sub>
+  <br><br>
+  <img src="https://profile-counter.glitch.me/thiago-rferreira/count.svg?" />
 </div>
