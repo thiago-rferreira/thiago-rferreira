@@ -64,8 +64,6 @@ Minha trajetória passa pela construção de soluções digitais completas, da a
 ## 📊 GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-rferreira&layout=compact&langs_count=8&hide_border=true&bg_color=0,000428,004e92&title_color=00d4ff&text_color=ffffff"/>
-
   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/thiago-rferreira?cardType=github&theme=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
 
@@ -104,7 +102,6 @@ Interesse em trocar ideia sobre arquitetura, full stack, DevOps, educação em t
 ---
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/thiago-rferreira/count.svg?" />
   <br><br>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN2bWQwOHluNG4weng0anl6Y283amF3eDc4bTg0MnVlc2dwaGZxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" height="160" />
 </div>
