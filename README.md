@@ -1,39 +1,50 @@
-<h2 align="center">👋 Prazer, sou o Thiago Ferreira!</h2>
-
----
-
-<div align="center" style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-  <div style="flex: 1; min-width: 280px; padding-right: 10px; text-align: left;">
-
-### 💡 Sobre mim
-
-Transformar conhecimento em impacto real: esse é meu foco 🚀🚀
-
-Sou **Engenheiro de Software**, **Instrutor no SENAI** e **Product Owner**.  
-Atuo formando novos talentos e desenvolvendo soluções digitais completas como **Full Stack Developer**.
-
-Tenho formação em **Engenharia de Software**, especialização em **Indústria 4.0** e fluência em inglês.  
-Acredito que inovação real acontece quando teoria e prática caminham juntas.
-
-  </div>
-  <div style="min-width: 160px;">
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmN2bWQwOHluNG4weng0anl6Y283amF3eDc4bTg0MnVlc2dwaGZxaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" height="160" />
-  </div>
-</div>
-
----
-
-### 📊 Minhas estatísticas no GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiago-rferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-rferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+
+```
+████████╗██╗  ██╗██╗ █████╗  ██████╗  ██████╗
+╚══██╔══╝██║  ██║██║██╔══██╗██╔════╝ ██╔═══██╗
+   ██║   ███████║██║███████║██║  ███╗██║   ██║
+   ██║   ██╔══██║██║██╔══██║██║   ██║██║   ██║
+   ██║   ██║  ██║██║██║  ██║╚██████╔╝╚██████╔╝
+   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
+```
+
+**`> whoami`**
+
+```bash
+$ cat /etc/profile.d/thiago.sh
+
+NAME="Thiago Ferreira"
+ROLE="Software Engineer | SENAI Instructor | Product Owner"
+STACK="Full Stack Developer"
+EDUCATION="Engenharia de Software + Especialização Indústria 4.0"
+LANG="pt-BR | en-US"
+MISSION="Transformar conhecimento em impacto real"
+STATUS="Online 🟢"
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full+Stack+Developer;SENAI+Instructor+%7C+Product+Owner;Building+real+impact+through+code...;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-### 🛠️ Tecnologias que trabalho
+## `> sys.stats --user thiago-rferreira`
 
-#### 💻 Linguagens & Frameworks
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiago-rferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=false&border_color=00FF9C&ring_color=00FF9C" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-rferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&border_color=00FF9C" height="150" alt="languages graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-rferreira&theme=chartreuse-dark&hide_border=false&border=00FF9C&stroke=00FF9C&ring=00FF9C&fire=FF6B35&currStreakLabel=00FF9C" alt="streak stats" />
+</div>
+
+---
+
+## `> ls ./stack --all`
+
+### `[ languages & frameworks ]`
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -45,7 +56,7 @@ Acredito que inovação real acontece quando teoria e prática caminham juntas.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
-#### ☁️ Infraestrutura & DevOps
+### `[ infrastructure & devops ]`
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -53,8 +64,9 @@ Acredito que inovação real acontece quando teoria e prática caminham juntas.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-#### 🧰 Ferramentas, IDEs e afins
+### `[ tools & workflow ]`
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -68,15 +80,7 @@ Acredito que inovação real acontece quando teoria e prática caminham juntas.
 
 ---
 
-### 📫 Vamos conversar?
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiago.rferreira)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagoferreira1)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thiagoferreira435@gmail.com)
-
----
-
-### 🕹️ Contribuições estilo Pac-Man
+## `> ./contributions --style pacman`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiago-rferreira/thiago-rferreira/output/pacman-contribution-graph-dark.svg">
@@ -86,13 +90,27 @@ Acredito que inovação real acontece quando teoria e prática caminham juntas.
 
 ---
 
+## `> ping thiago --socials`
+
 <div align="center">
-  <br>
-  <br>
-  ⭐ Obrigado por visitar meu perfil! Se curtir algum projeto, dá uma estrela!
-  Vamos conversar e construir juntos? 🚀
-  <br>
-  <br>
-  <br>
-  <img src="https://profile-counter.glitch.me/thiago-rferreira/count.svg?" />
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thiago.rferreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagoferreira1)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoferreira435@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════╗
+║  ⭐ Se curtiu algum projeto, deixa uma estrela!  ║
+║     Bora conversar e construir juntos? 🚀        ║
+╚══════════════════════════════════════════════════╝
+```
+
+![Visitor Counter](https://profile-counter.glitch.me/thiago-rferreira/count.svg?)
+
 </div>
