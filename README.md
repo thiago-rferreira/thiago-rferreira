@@ -1,86 +1,85 @@
 <div align="center">
 
-```
-████████╗██╗  ██╗██╗ █████╗  ██████╗  ██████╗
-╚══██╔══╝██║  ██║██║██╔══██╗██╔════╝ ██╔═══██╗
-   ██║   ███████║██║███████║██║  ███╗██║   ██║
-   ██║   ██╔══██║██║██╔══██║██║   ██║██║   ██║
-   ██║   ██║  ██║██║██║  ██║╚██████╔╝╚██████╔╝
-   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝
-```
+<br>
 
-**`> whoami`**
+# Thiago Ferreira
 
-```bash
-$ cat /etc/profile.d/thiago.sh
+**Software Engineer · Full Stack Developer · SENAI Instructor**
 
-NAME="Thiago Ferreira"
-ROLE="Software Engineer | SENAI Instructor | Product Owner"
-STACK="Full Stack Developer"
-EDUCATION="Engenharia de Software + Especialização Indústria 4.0"
-LANG="pt-BR | en-US"
-MISSION="Transformar conhecimento em impacto real"
-STATUS="Online 🟢"
-```
+Engenheiro de Software com especialização em Indústria 4.0.  
+Transformo conhecimento em produtos reais — da arquitetura ao deploy.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Full+Stack+Developer;SENAI+Instructor+%7C+Product+Owner;Building+real+impact+through+code...;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
+<br>
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagoferreira1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/thiago.rferreira)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thiagoferreira435@gmail.com)
+
+<br>
 
 ---
 
-## `> sys.stats --user thiago-rferreira`
+</div>
+
+<br>
+
+## About
+
+Atuo como **Engenheiro de Software**, **Product Owner** e **Instrutor no SENAI** — formando novos devs e construindo soluções digitais de ponta a ponta.
+
+Tenho fluência em inglês e acredito que inovação real acontece onde teoria e prática se encontram.
+
+<br>
+
+## Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+
+**Frameworks & Runtime**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Infrastructure**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+<br>
+
+## Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thiago-rferreira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=pt-br&hide_border=false&border_color=00FF9C&ring_color=00FF9C" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-rferreira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&border_color=00FF9C" height="150" alt="languages graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=thiago-rferreira&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true&title_color=0f172a&text_color=374151&icon_color=6366f1" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thiago-rferreira&layout=compact&langs_count=5&theme=default&hide_border=true&title_color=0f172a&text_color=374151" height="150" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiago-rferreira&theme=chartreuse-dark&hide_border=false&border=00FF9C&stroke=00FF9C&ring=00FF9C&fire=FF6B35&currStreakLabel=00FF9C" alt="streak stats" />
-</div>
+<br>
 
----
-
-## `> ls ./stack --all`
-
-### `[ languages & frameworks ]`
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-
-### `[ infrastructure & devops ]`
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### `[ tools & workflow ]`
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
----
-
-## `> ./contributions --style pacman`
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thiago-rferreira/thiago-rferreira/output/pacman-contribution-graph-dark.svg">
@@ -88,29 +87,18 @@ STATUS="Online 🟢"
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/thiago-rferreira/thiago-rferreira/output/pacman-contribution-graph.svg">
 </picture>
 
----
-
-## `> ping thiago --socials`
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/thiago.rferreira)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagoferreira1)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagoferreira435@gmail.com)
-
-</div>
+<br>
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════╗
-║  ⭐ Se curtiu algum projeto, deixa uma estrela!  ║
-║     Bora conversar e construir juntos? 🚀        ║
-╚══════════════════════════════════════════════════╝
-```
+<br>
+
+Se curtir algum projeto, deixa uma ⭐ — significa muito.
 
 ![Visitor Counter](https://profile-counter.glitch.me/thiago-rferreira/count.svg?)
+
+<br>
 
 </div>
