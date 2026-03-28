@@ -68,7 +68,7 @@ Minha trajetória passa pela construção de soluções digitais completas, da a
  
   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/thiago-rferreira?cardType=github&theme=github&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
----
+
 
 ## 💡 Filosofia
 
