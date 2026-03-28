@@ -82,8 +82,6 @@ def engenharia_de_software():
     repetir()                # Sempre
 ```
 
----
-
 ## 💬 Bora conversar?
 
 Interesse em trocar ideia sobre arquitetura, full stack, DevOps, educação em tech ou projetos? 👇
